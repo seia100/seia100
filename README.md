@@ -1,5 +1,5 @@
 ## **Hi there 👋 I'm Luis Arenas**
-*Computer engineer, Cybersecurity Professional*
+*Computer engineer | Cybersecurity Professional*
 
 
 ### 📜 Certifications:
