@@ -7,6 +7,9 @@
 - [Cibersecurity fundamentals](https://coursera.org/share/7b55e906a0c9d43745f32eb66c87b708)
 
 ### 💼 My Projects:
+- **Wisconsin Diagnostic Breast Cancer** [(WDBC)](https://github.com/Alexandeeer1/COMUNICA-PROYECTO-FINAL)
+  -  Development of analysis for the diagnosis of breast cancer in Wisconsin using AI models.
+  
 - **Health Recover & KUSKA**
   - Practicing Dart, Flutter and conections db, in process
 - **AIMD-Lab**
