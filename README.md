@@ -12,9 +12,9 @@
   
 - **Health Recover & KUSKA**
   - Practicing Dart, Flutter and conections db, in process
-- **AIMD-Lab**
+<!-- - **AIMD-Lab**
   -  AI Malware Detection Laboratory, in process
-
+--!>
 ### 📲 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/luis-santiago-arenas-torres-52a513260/)
 
